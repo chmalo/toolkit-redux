@@ -1,1 +1,1 @@
-echo "# toolkit-redux" with typeScript
+# toolkit-redux with typeScript
